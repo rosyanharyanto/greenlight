@@ -293,7 +293,7 @@ id_ID:
       start: Temukan ...
   landing:
     about: "%{href} adalah antar-muka untuk server BigBlueButton yang memungkinkan Anda membentuk ruang-ruang pertemuan, atau bergabung ke ruang pertemuan lain melalui tautan yang singkat dan nyaman digunakan."
-    welcome: Selamat datang di BigBlueButton.
+    welcome: Selamat datang di E-Meeting TNI AL.
     video: Saksiksan video petunjuk penggunaan Greenlight
     upgrade: Cara upgrade ke versi 2.0!
     version: "Greenlight versi baru sudah ada, tapi database Anda tidak cocok."
@@ -333,7 +333,7 @@ id_ID:
         username: "Email untuk Login Anda adalah %{email}."
       password_reset:
         title: 'Ganti Password'
-        welcome: "Anda terdaftar di BigBlueButton dengan email <b>%{email}</b>."
+        welcome: "Anda terdaftar di E-Meeting TNI AL dengan email <b>%{email}</b>."
         message: 'Untuk keamanan akun Anda, silakan klik tombol Ganti Password di bawah ini:'
         reset_link: Ganti Password
         expire: Tautan ini berlaku hingga 2 jam sejak terkirim dari sistem kami. Jika Anda tidak meng-klik Ganti Password maka password Anda tidak berubah.
